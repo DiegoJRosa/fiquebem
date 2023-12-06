@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891392545357",
+    "project_id": "qualquer-projeto-98042",
+    "storage_bucket": "qualquer-projeto-98042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891392545357:android:5e723f9df72f33d82bc204",
+        "android_client_info": {
+          "package_name": "com.example.exfirebirdbase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3hWRMZU8bsUZPUpt-qJw_fsefN3pp5pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

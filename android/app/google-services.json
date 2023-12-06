@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282108996426",
+    "project_id": "testefiquebem",
+    "storage_bucket": "testefiquebem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282108996426:android:08b61a3a5a00540725afb3",
+        "android_client_info": {
+          "package_name": "com.example.fiquebem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtYqvqb2toCFUzO94eCOiRHJhXgun9JKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
